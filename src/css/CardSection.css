@@ -1,0 +1,17 @@
+.cards-section {
+  padding: 40px 20px;
+  text-align: center;
+  background: #0f1720;
+}
+
+.cards-section h1 {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
