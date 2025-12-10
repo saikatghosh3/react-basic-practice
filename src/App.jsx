@@ -1,13 +1,17 @@
 
 import React from 'react'
 import './App.css'
+import Practicethree from './components/Practicethree'
 
 // import Navbar from './components/Navbar.jsx';
 // import Hero from './components/Hero.jsx';
 // import CardsSection from './components/CardSection.jsx';
 // import Example from './components/Example.jsx';
 // import Counter from './components/Counter.jsx'
-import NotetakingApp from './components/NotetakingApp'
+// import NotetakingApp from './components/NotetakingApp'
+// import StudentAttandance from './components/StudentAttandance'
+// import PracticeOne from './components/PracticeOne'
+// import Practicetwo from './components/Practicetwo'
 
 
 function App() {
@@ -28,8 +32,14 @@ function App() {
 
   {/* <Counter/> */}
 
-   <NotetakingApp/>
+   {/* <NotetakingApp/> */}
+
+   {/* <StudentAttandance/> */}
+   {/* <PracticeOne/> */}
+   {/* <Practicetwo/> */}
+   <Practicethree />
     </>
+    
   )
 }
 
