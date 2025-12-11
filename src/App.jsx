@@ -2,6 +2,8 @@
 import React from 'react'
 import './App.css'
 import Practicethree from './components/Practicethree'
+import Practicefour from './components/Practicefour'
+import Practicefive from './components/Practicefive'
 
 // import Navbar from './components/Navbar.jsx';
 // import Hero from './components/Hero.jsx';
@@ -12,6 +14,7 @@ import Practicethree from './components/Practicethree'
 // import StudentAttandance from './components/StudentAttandance'
 // import PracticeOne from './components/PracticeOne'
 // import Practicetwo from './components/Practicetwo'
+
 
 
 function App() {
@@ -37,7 +40,10 @@ function App() {
    {/* <StudentAttandance/> */}
    {/* <PracticeOne/> */}
    {/* <Practicetwo/> */}
-   <Practicethree />
+   {/* <Practicethree /> */}
+   {/* <Practicefour /> */}
+   {/* <Practicefive/> */}
+   <Practicefive/>
     </>
     
   )
