@@ -4,6 +4,7 @@ import './App.css'
 import Practicethree from './components/Practicethree'
 import Practicefour from './components/Practicefour'
 import Practicefive from './components/Practicefive'
+import Reducer from './components/Reducer'
 
 // import Navbar from './components/Navbar.jsx';
 // import Hero from './components/Hero.jsx';
@@ -43,7 +44,8 @@ function App() {
    {/* <Practicethree /> */}
    {/* <Practicefour /> */}
    {/* <Practicefive/> */}
-   <Practicefive/>
+   {/* <Practicefive/> */}
+   <Reducer/>
     </>
     
   )
