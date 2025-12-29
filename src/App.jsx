@@ -5,6 +5,7 @@ import Practicethree from './components/Practicethree'
 import Practicefour from './components/Practicefour'
 import Practicefive from './components/Practicefive'
 import Reducer from './components/Reducer'
+import Restapi from './components/Restapi'
 
 // import Navbar from './components/Navbar.jsx';
 // import Hero from './components/Hero.jsx';
@@ -45,7 +46,8 @@ function App() {
    {/* <Practicefour /> */}
    {/* <Practicefive/> */}
    {/* <Practicefive/> */}
-   <Reducer/>
+   {/* <Reducer/> */}
+   <Restapi/>
     </>
     
   )
